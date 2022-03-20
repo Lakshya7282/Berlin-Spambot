@@ -5,7 +5,7 @@
   <b>Ꭺ ᏢϴᏔᎬᎡҒႮᏞ ՏᏢᎪᎷ ႮՏᎬᎡᏴϴͲ ᏔᎻᏆᏟᎻ ᏔϴᎡᏦ ϴΝ ͲᎬᏞᎬᏀᎡᎪᎷ ᏴᎪՏᎬᎠ ϴΝ ͲᎬᏞᎬͲᎻϴΝ. ᏴᎽ ᎠᎬᏢᏞϴᎽᏆΝᏀ/ᎻϴՏͲᏆΝᏀ ͲᎻᏆՏ Ⴎ ᏟᎪΝ ՏᏢᎪᎷ ϴΝ ͲᎬᏞᎬᏀᎡᎪᎷ ᏴᎽ ϴΝᎬ ᏟϴᎷᎷᎪΝᎠ Ͳϴ 30 ᎪᏟᏟϴႮΝͲ ᎪͲ ϴΝᎬ ͲᏆᎷᎬ.</b>
 </h1>
 <p align="center">
-  <img src="https://telegra.ph/file/49fc92b96f83b68d95bb7.jpg alt="BAPJI SPAMBOT">
+  <img src="https://telegra.ph/file/49fc92b96f83b68d95bb7.jpg" alt="BAPJI SPAMBOT">
 </p>
 
 
